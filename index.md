@@ -20,7 +20,7 @@ RSVP Movies is an Indian film production company which has produced many super-h
 
 The production company wants to plan their every move analytically based on data and have approached you for help with this new project. You have been provided with the data of the movies that have been released in the past three years. You have to analyse the data set and draw meaningful insights that can help them start their new project.
 
-<center><img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfjSxdlOaKY9peuSEkQXCdxUimfA5wb9uBgI3XL9k3kg&usqp=CAU&ec=48600112](https://storage.googleapis.com/kaggle-datasets-images/1909832/3134874/fe09ac34c9b383cdb3b01a7baaaae4af/dataset-cover.jpg?t=2022-02-06-12-07-28)"/></center>
+<center><img src="assets/rsvp.jpeg"/></center>
 
 ---
 ### Boom Bikes Sharing - Multiple Linear Regression
